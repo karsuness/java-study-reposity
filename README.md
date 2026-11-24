@@ -127,7 +127,8 @@
 
 ## 说明
 
-- 笔记中的图示以 PNG 形式保存在 [assets](assets) 及 [Java/assets](Java/assets) 目录。
+- 笔记中的图示统一存放在 [assets](assets) 目录，按所属笔记分子目录组织，例如 `assets/类加载/img-01.png`。
+- 文档使用相对路径引用图片，在 GitHub 网页端、本地编辑器及各类 Markdown 阅读器中均可正常显示。
 - 内容持续补充与修订，欢迎交流指正。
 
 ## 许可
